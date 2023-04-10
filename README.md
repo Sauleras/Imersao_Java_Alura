@@ -13,7 +13,7 @@
 <p><strong>Resultado do primeiro dia</strong></p>
 <img src="https://user-images.githubusercontent.com/91494533/228243769-df573d0d-cd88-4eac-8702-c7c6cd3061f3.PNG">
 
-<h3>Segundo Dia<h3>
+<h3>Segundo Dia</h3>
  <lu>
   <li>
     Foram utilizados os pacotes
